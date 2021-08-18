@@ -46,12 +46,18 @@ MonoBehaviour:
   sounds:
   - name: BulletShoot
     clip: {fileID: 8300000, guid: 6128daaf7b99a0a458c98637201d9e6c, type: 3}
-    volume: 1
+    volume: 0.5
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Chicken
     clip: {fileID: 8300000, guid: 2544e568dc883384e8fb45e3a08fc0fc, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Reload
+    clip: {fileID: 8300000, guid: 29d278b7d4aa9094c8a8bdef0b5639c9, type: 3}
     volume: 1
     pitch: 1
     loop: 0
